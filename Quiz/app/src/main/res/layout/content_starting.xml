@@ -30,19 +30,19 @@
         android:layout_alignParentStart="true">
 
         <Button
-            android:text="Auto"
+            android:text="Cars"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/btnAutoQuiz"
-            android:background="@color/colorPrimary"
+            android:id="@+id/btnCarsQuiz"
+            android:background="@drawable/my_button_bg"
             android:layout_weight="1" />
 
         <Button
-            android:text="Moto"
+            android:text="Motorbikes"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/btnMotoQuiz"
-            android:background="@color/colorPrimary"
+            android:id="@+id/btnMotorbikesQuiz"
+            android:background="@drawable/my_button_bg"
             android:layout_weight="1" />
     </LinearLayout>
 
